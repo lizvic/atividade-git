@@ -3,4 +3,4 @@
 
 Nome: Aula 03
 
-Estou aprendendo GitHub!
+Estou aprendendo GitHub! Estou fazendo minha primeira alteração.
